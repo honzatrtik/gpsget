@@ -1,0 +1,11 @@
+{
+	"require": {
+		"vdb/uri": "dev-master",
+		"vdb/php-spider": "dev-master",
+		"doctrine/common": "2.3.*@dev"
+	},
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-0": { "": "src/" }
+	}
+}
